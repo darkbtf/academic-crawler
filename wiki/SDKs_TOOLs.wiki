@@ -2,7 +2,7 @@
 
 = Introduction =
 
- * The SDKs & TOOLs listed below are what this project MAY need. They can be acquired by the "Downloads" section of this project: http://code.google.com/p/academic-crawler/downloads/list.
+ * The SDKs & TOOLs listed below are what this project MAY need. They can be acquired by the "Downloads" section of this project: [http://code.google.com/p/academic-crawler/downloads/list].
 
  * *NOTICE 1:* Some of those downloadable items are binaries which can be put into immediate use after installation, while the others are source codes which may need a compilation first, see other documents to find more details on *HOW TO* compile software from source codes.
 
@@ -25,6 +25,8 @@
 
  * If you are unwilling to build Qt 4.6.2 from src, turn to *"SDK_02-Qt_4.6.2_bin"* - Qt 4.6.2 binaries built for *win32 msvc 2005*.
 
+ * Visit [http://qt.nokia.com] for more details about qt.
+
 === [http://code.google.com/p/academic-crawler/downloads/list 2. SDK_02-Qt_4.6.2_bin] ===
 
  * *Qt 4.6.2*( *Open Source Edition* ) is used in this project to build application GUIs.
@@ -35,19 +37,45 @@
 
  * If you want to build Qt 4.6.2 from src, turn to *"SDK_01-Qt_4.6.2_src"* - Qt 4.6.2 source.
 
+ * Visit [http://qt.nokia.com] for more details about qt.
+
+
 == TOOLs: ==
 
 === [http://code.google.com/p/academic-crawler/downloads/list 1. TOOL_01-Tortoise_SVN_1_6_12_&_SVN_1_6_15] ===
 
- 
+ * *Svn 1.6.15* is used as source control tool.
 
+ * Svn 1.6.15 is an open-source software.
+
+ * Visit [http://subversion.apache.org] for more details about Svn.
+
+ * *Tortoise Svn 1.6.12* is a Svn client.
+
+ * Tortoise Svn 1.6.12 is a free software.
+
+ * Visit [http://tortoisesvn.net] for more details about Tortoise Svn.
 
 === [http://code.google.com/p/academic-crawler/downloads/list 2. TOOL_02-Qt_Visual_Studio_Integration_1_4_3] ===
 
+ * *Qt Visual Studio Integration 1.4.3* is an add-in for Microsoft Visual Studio that helps developing qt applications.
 
+ * Qt Visual Studio Integration 1.4.3 is among commercial products which require purchasing when put into use.
+
+ * Visit [http://qt.nokia.com] for more details about qt commercial edition.
 
 === [http://code.google.com/p/academic-crawler/downloads/list 3. TOOL_03-Visual_Assist_X_1_7_1_1] ===
 
+ * *Visual Assist X 1.7.1.1* is an add-in for Microsoft Visual Studio that helps coding.
 
+ * Visual Assist X 1.7.1.1 is among commercial products which require purchasing when put into use.
+
+ * Visit [http://www.wholetomato.com] for more details about Visual Assist X.
 
 === [http://code.google.com/p/academic-crawler/downloads/list 4. TOOL_04-Dependency_Walker_2_2] ===
+
+ * *Dependency Walker 2.2* is used to check certain dependencies of an application.
+
+ * Dependency Walker 2.2 is a free software.
+
+ * Visit [http://www.dependencywalker.com] for more details about Dependency Walker.
