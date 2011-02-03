@@ -1,0 +1,42 @@
+#summary This Page Mainly Talks About The Standard Process Of Building Qt 4.6.2 Binaries For Microsoft Visual C++ 2005 From Source Codes.
+
+= Introduction =
+
+ * Following describes a normal instruction on how to build Qt 4.6.2 for *Microsoft Visual C++ 2005* from Qt source codes.
+
+ * *NOTICE 1:* If you want to use a BINARY VERSION of Qt 4.6.2, *SKIP* this document and turn to instructions on HOW TO use Qt 4.6.2 binaries.
+
+ * *NOTICE 2:* This instruction *ONLY* demonstrates how to build *Qt 4.6.2 binaries for msvc2005*, which does not guarantee the same success on other Qt versions or compilers. Check [http://doc.qt.nokia.com/latest/installation.html] for details with other Qt versions or compilers.
+
+ * *NOTICE 3:* If you are not skilled with Qt 4.6.2, carefully following this instruction is *MORE LIKELY* to have binaries successfully built.
+
+
+= Details =
+
+== Preparations ==
+
+=== 1. Microsoft Visual Studio 2005 ===
+
+ * VC++ 2005 is the compiler we use to build Qt 4.6.2 binaries.
+
+ * VC++ 2005 is among *COMMERCIAL PRODUCTS* which may require authentication of use.
+
+=== 2. Microsoft Visual Studio 2005 SP1 ===
+
+ * Better get VC++ 2005 patched with SP1 patch.
+
+ * Visit [http://www.microsoft.com/downloads/zh-cn/details.aspx?FamilyID=bb4a75ab-e2d4-4c96-b39d-37baf6b5b1dc Microsoft Visual Studio 2005 SP1] to acquire it.
+
+=== 3. Qt 4.6.2 Source ===
+
+ * The Qt 4.6.2 source needed for compilation.
+
+ * See [http://code.google.com/p/academic-crawler/downloads/list 1. SDK_01-Qt_4.6.2_src] to download.
+
+== Process ==
+
+=== To Be Added... ===
+
+
+
+
