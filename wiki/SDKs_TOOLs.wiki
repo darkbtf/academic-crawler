@@ -51,7 +51,7 @@
 
  * *Tortoise Svn 1.6.12* is a Svn client.
 
- * Tortoise Svn 1.6.12 is a *FREE* software.
+ * Tortoise Svn 1.6.12 is *FREE*.
 
  * Visit [http://tortoisesvn.net] for more details about Tortoise Svn.
 
@@ -75,6 +75,6 @@
 
  * *Dependency Walker 2.2* is used to check certain dependencies of an application.
 
- * Dependency Walker 2.2 is a *FREE* software.
+ * Dependency Walker 2.2 is *FREE*.
 
  * Visit [http://www.dependencywalker.com] for more details about Dependency Walker.
