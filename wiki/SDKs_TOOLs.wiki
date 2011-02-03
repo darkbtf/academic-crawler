@@ -2,9 +2,7 @@
 
 = Introduction =
 
-  * The SDKs & TOOLs listed below are what this project MAY need. They can be acquired by the "Downloads" section of this project:
- 
-  * http://code.google.com/p/academic-crawler/downloads/list.
+  * The SDKs & TOOLs listed below are what this project MAY need. They can be acquired by the "Downloads" section of this project: http://code.google.com/p/academic-crawler/downloads/list.
 
   * *NOTICE 1:* Some of those downloadable items are binaries which can be put into immediate use after installation, while the others are source codes which may need a compilation first, see other documents to find more details on *HOW TO* compile software from source codes.
 
