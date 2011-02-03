@@ -25,18 +25,16 @@
 
  * Better get VC++ 2005 patched with SP1 patch.
 
- * Visit [http://www.microsoft.com/downloads/zh-cn/details.aspx?FamilyID=bb4a75ab-e2d4-4c96-b39d-37baf6b5b1dc Microsoft Visual Studio 2005 SP1] to acquire it.
+ * Visit [http://www.microsoft.com/downloads/zh-cn/details.aspx?FamilyID=bb4a75ab-e2d4-4c96-b39d-37baf6b5b1dc] to acquire it.
 
 === 3. Qt 4.6.2 Source ===
 
  * The Qt 4.6.2 source needed for compilation.
 
- * See [http://code.google.com/p/academic-crawler/downloads/list 1. SDK_01-Qt_4.6.2_src] to download.
+ * See [http://code.google.com/p/academic-crawler/downloads/list SDK_01-Qt_4.6.2_src] on "Downloads" section to download.
 
 == Process ==
 
 === To Be Added... ===
-
-
 
 
