@@ -2,13 +2,13 @@
 
 = Introduction =
 
-The SDKs & TOOLs listed below are what this project MAY need. They can be acquired by the "Downloads" section of this project:
+  * The SDKs & TOOLs listed below are what this project MAY need. They can be acquired by the "Downloads" section of this project:
  
 http://code.google.com/p/academic-crawler/downloads/list.
 
-* *NOTICE 1:* Some of those downloadable items are binaries which can be put into immediate use after installation, while the others are source codes which may need a compilation first, see other documents to find more details on *HOW TO* compile software from source codes.
+  * *NOTICE 1:* Some of those downloadable items are binaries which can be put into immediate use after installation, while the others are source codes which may need a compilation first, see other documents to find more details on *HOW TO* compile software from source codes.
 
-* *NOTICE 2:* In the meantime, some downloadable items are opensource projects. Those items can be used freely *UNDER CERTAIN LICENSES*, while the others are commercial products which can only be used *AFTER PURCHASE*.
+  * *NOTICE 2:* In the meantime, some downloadable items are opensource projects. Those items can be used freely *UNDER CERTAIN LICENSES*, while the others are commercial products which can only be used *AFTER PURCHASE*.
 
 
 = Details =
@@ -17,7 +17,7 @@ http://code.google.com/p/academic-crawler/downloads/list.
 
 === [http://code.google.com/p/academic-crawler/downloads/list 1. SDK_01-Qt_4.6.2_src] ===
 
-  * Qt( Open Source Edition ) is used in this project to build application GUIs.
+  * *Qt 4.6.2*( *Open Source Edition* ) is used in this project to build application GUIs.
 
   * This document is a package with source codes of Qt 4.6.2.
 
