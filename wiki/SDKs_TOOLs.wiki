@@ -15,7 +15,7 @@
 
 === [http://code.google.com/p/academic-crawler/downloads/list 1. SDK_01-Qt_4.6.2_src] ===
 
- * *Qt 4.6.2*( *Open Source Edition* ) is used in this project to build application GUIs.
+ * *Qt 4.6.2*( *OPEN SOURCE EDITION* ) is used in this project to build application GUIs.
 
  * This document is a package with source codes of Qt 4.6.2.
 
@@ -29,7 +29,7 @@
 
 === [http://code.google.com/p/academic-crawler/downloads/list 2. SDK_02-Qt_4.6.2_bin] ===
 
- * *Qt 4.6.2*( *Open Source Edition* ) is used in this project to build application GUIs.
+ * *Qt 4.6.2*( *OPEN SOURCE EDITION* ) is used in this project to build application GUIs.
 
  * This document is a package with binaries of Qt 4.6.2 for win32 msvc2005.
 
@@ -39,20 +39,19 @@
 
  * Visit [http://qt.nokia.com] for more details about qt.
 
-
 == TOOLs: ==
 
 === [http://code.google.com/p/academic-crawler/downloads/list 1. TOOL_01-Tortoise_SVN_1_6_12_&_SVN_1_6_15] ===
 
  * *Svn 1.6.15* is used as source control tool.
 
- * Svn 1.6.15 is an open-source software.
+ * Svn 1.6.15 is an *OPEN SOURCE* software.
 
  * Visit [http://subversion.apache.org] for more details about Svn.
 
  * *Tortoise Svn 1.6.12* is a Svn client.
 
- * Tortoise Svn 1.6.12 is a free software.
+ * Tortoise Svn 1.6.12 is a *FREE* software.
 
  * Visit [http://tortoisesvn.net] for more details about Tortoise Svn.
 
@@ -60,7 +59,7 @@
 
  * *Qt Visual Studio Integration 1.4.3* is an add-in for Microsoft Visual Studio that helps developing qt applications.
 
- * Qt Visual Studio Integration 1.4.3 is among commercial products which require purchasing when put into use.
+ * Qt Visual Studio Integration 1.4.3 is among *COMMERCIAL PRODUCTS* which require purchasing when put into use.
 
  * Visit [http://qt.nokia.com] for more details about qt commercial edition.
 
@@ -68,7 +67,7 @@
 
  * *Visual Assist X 1.7.1.1* is an add-in for Microsoft Visual Studio that helps coding.
 
- * Visual Assist X 1.7.1.1 is among commercial products which require purchasing when put into use.
+ * Visual Assist X 1.7.1.1 is among *COMMERCIAL PRODUCTS* which require purchasing when put into use.
 
  * Visit [http://www.wholetomato.com] for more details about Visual Assist X.
 
@@ -76,6 +75,6 @@
 
  * *Dependency Walker 2.2* is used to check certain dependencies of an application.
 
- * Dependency Walker 2.2 is a free software.
+ * Dependency Walker 2.2 is a *FREE* software.
 
  * Visit [http://www.dependencywalker.com] for more details about Dependency Walker.
