@@ -18,15 +18,19 @@ http://code.google.com/p/academic-crawler/downloads/list.
 
 === [http://code.google.com/p/academic-crawler/downloads/list 1. SDK_01-Qt_4.6.2_src] ===
 
+  Qt( Open Source Edition ) is used in this project to build application GUIs, this document is a package with source codes of Qt 4.6.2. *BEFORE* using this version of Qt SDK you need to *BUILD BINARIES FROM THE SOURCE CODES*.
 
+  To know *HOW TO* build Qt 4.6.2 binaries from src and configure it for use in *win32 msvc 2005*, please check out instructions on project wiki.
+
+  If you are unwilling to build Qt 4.6.2 from src, turn to "SDK_02-Qt_4.6.2_bin" - Qt 4.6.2 binaries built for *win32 msvc 2005*.
 
 === [http://code.google.com/p/academic-crawler/downloads/list 2. SDK_02-Qt_4.6.2_bin] ===
-
 
 
 == TOOLs: ==
 
 === [http://code.google.com/p/academic-crawler/downloads/list 1. TOOL_01-Tortoise_SVN_1_6_12_&_SVN_1_6_15] ===
+
 
 
 
