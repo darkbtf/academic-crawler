@@ -16,26 +16,26 @@ http://code.google.com/p/academic-crawler/downloads/list.
 
 == SDKs ==
 
-=== `1.SDK_01-Qt_4.6.2_src` ===
+=== 1. SDK`_`01`-`Qt`_`4.6.2`_`src ===
 
 
 
-=== `2.SDK_02-Qt_4.6.2_bin` ===
+=== 2. SDK`_`02`-`Qt`_`4.6.2`_`bin ===
 
 
 
 == TOOLs: ==
 
-=== `1.TOOL_01-Tortoise_SVN_1_6_12_&_SVN_1_6_15` ===
+=== 1. TOOL`_`01`-`Tortoise`_`SVN`_`1`_`6`_`12`_`&`_`SVN`_`1`_`6`_`15 ===
 
 
 
-=== `2.TOOL_02-Qt_Visual_Studio_Integration_1_4_3` ===
+=== 2. TOOL`_`02`-`Qt`_`Visual`_`Studio`_`Integration`_`1`_`4`_`3 ===
 
 
 
-=== `3.TOOL_03-Visual_Assist_X_1_7_1_1` ===
+=== 3.TOOL`_`03`-`Visual`_`Assist`_`X`_`1`_`7`_`1`_`1 ===
 
 
 
-=== `4.TOOL_04-Dependency_Walker_2_2` ===
+=== 4.TOOL`_`04`-`Dependency`_`Walker`_`2`_`2 ===
