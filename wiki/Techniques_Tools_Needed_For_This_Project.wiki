@@ -1,0 +1,22 @@
+This Page Mainly Talks About The Techniques & Tools Required For This Project.
+
+= Introduction =
+
+The techniques & tools listed below are what this project MAY need. They can be acquired by the "Downloads" section of http://code.google.com/p/academic-crawler/downloads/list.
+
+Some of those downloadable items are binaries which can be put into immediate use after installation, while the others are source-codes which may need a compilation first.
+
+In the meantime, some downloadable items are opensource projects. Those items can be used freely under certain licenses, while the others are commercial products which can only be used after purchase.
+
+
+= Details =
+
+*SDKs:*
+    # *SDK_01-Qt_4.6.2_src*,
+    # *SDK_02-Qt_4.6.2_bin*
+
+*TOOLs:*
+    # *TOOL_01-Tortoise_SVN_1_6_12_&_SVN_1_6_15*,
+    # *TOOL_02-Qt_Visual_Studio_Integration_1_4_3*,
+    # *TOOL_03-Visual_Assist_X_1_7_1_1*,
+    # *TOOL_04-Dependency_Walker_2_2*
