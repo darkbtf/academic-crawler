@@ -21,12 +21,19 @@
 
   * *BEFORE* using this version of Qt SDK you need to *BUILD BINARIES FROM THE SOURCE CODES*.
 
-  * To know *HOW TO* build Qt 4.6.2 binaries from src and configure it for use in *win32 msvc 2005*, please check out instructions on project wiki.
+  * To know *HOW TO* build Qt 4.6.2 binaries from src and configure it for use in *win32 msvc 2005* projects, please check out instructions on project wiki.
 
   * If you are unwilling to build Qt 4.6.2 from src, turn to "SDK_02-Qt_4.6.2_bin" - Qt 4.6.2 binaries built for *win32 msvc 2005*.
 
 === [http://code.google.com/p/academic-crawler/downloads/list 2. SDK_02-Qt_4.6.2_bin] ===
 
+  * *Qt 4.6.2*( *Open Source Edition* ) is used in this project to build application GUIs.
+
+  * This document is a package with binaries of Qt 4.6.2 for win32 msvc2005.
+
+  * To know *HOW TO* configure it for use in *win32 msvc 2005* projects, please check out instructions on project wiki.
+
+  * If you want to build Qt 4.6.2 from src, turn to "SDK_01-Qt_4.6.2_src" - Qt 4.6.2 source.
 
 == TOOLs: ==
 
