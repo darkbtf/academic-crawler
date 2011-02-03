@@ -1,0 +1,41 @@
+#summary This Page Mainly Talks About The SDKs & Tools Required For This Project.
+
+= Introduction =
+
+The SDKs & TOOLs listed below are what this project MAY need. They can be acquired by the "Downloads" section of this project:
+ 
+http://code.google.com/p/academic-crawler/downloads/list.
+
+
+*NOTICE 1:* Some of those downloadable items are binaries which can be put into immediate use after installation, while the others are source codes which may need a compilation first, see other documents to find more details on *HOW TO* compile software from source codes.
+
+*NOTICE 2:* In the meantime, some downloadable items are opensource projects. Those items can be used freely *UNDER CERTAIN LICENSES*, while the others are commercial products which can only be used *AFTER PURCHASE*.
+
+
+= Details =
+
+== SDKs ==
+
+=== [http://code.google.com/p/academic-crawler/downloads/list 1. SDK`_`01`-`Qt`_`4.6.2`_`src] ===
+
+
+
+=== [http://code.google.com/p/academic-crawler/downloads/list 2. SDK`_`02`-`Qt`_`4.6.2`_`bin] ===
+
+
+
+== TOOLs: ==
+
+=== [http://code.google.com/p/academic-crawler/downloads/list 1. TOOL`_`01`-`Tortoise`_`SVN`_`1`_`6`_`12`_`&`_`SVN`_`1`_`6`_`15] ===
+
+
+
+=== [http://code.google.com/p/academic-crawler/downloads/list 2. TOOL`_`02`-`Qt`_`Visual`_`Studio`_`Integration`_`1`_`4`_`3] ===
+
+
+
+=== [http://code.google.com/p/academic-crawler/downloads/list 3. TOOL`_`03`-`Visual`_`Assist`_`X`_`1`_`7`_`1`_`1] ===
+
+
+
+=== [http://code.google.com/p/academic-crawler/downloads/list 4. TOOL`_`04`-`Dependency`_`Walker`_`2`_`2] ===
