@@ -81,8 +81,8 @@
 
 === [http://code.google.com/p/academic-crawler/downloads/list 5. TOOL_05-VirtualBox_4_0_2] ===
 
- * *VirtualBox 4.0.2* is a virtual machine which is useful for compiling binaries and running tests.
+ * `*VirtualBox 4.0.2*` is a virtual machine which is useful for compiling binaries and running tests.
 
- * VirtualBox 4.0.2 is *OPEN SOURCE*.
+ * `VirtualBox` 4.0.2 is *OPEN SOURCE*.
 
  * Visit [http://www.virtualbox.org] for more details about `VirtualBox`.
