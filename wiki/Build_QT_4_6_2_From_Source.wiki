@@ -25,16 +25,58 @@
 
  * Better get VC++ 2005 patched with SP1 patch.
 
- * Visit [http://www.microsoft.com/downloads/zh-cn/details.aspx?FamilyID=bb4a75ab-e2d4-4c96-b39d-37baf6b5b1dc] to acquire it.
+ * Visit [http://www.microsoft.com/downloads/zh-cn/details.aspx?FamilyID=bb4a75ab-e2d4-4c96-b39d-37baf6b5b1dc Microsoft Visual Studio 2005 SP1] to acquire it.
 
 === 3. Qt 4.6.2 Source ===
 
  * The Qt 4.6.2 source needed for compilation.
 
- * See [http://code.google.com/p/academic-crawler/downloads/list SDK_01-Qt_4.6.2_src] on "Downloads" section to download.
+ * See [http://code.google.com/p/academic-crawler/downloads/list SDK_01-Qt_4.6.2_src] to download.
+
+=== 4. `VirtualBox` 4.0.2 ( *NOT NECESSARY, BUT RECOMMENDED* ) ===
+
+ * *`VirtualBox` 4.0.2* is a virtual machine software.
+
+ * The virtual machine may be the best place to build SDKs and test binaries.
+
+ * `VirtualBox` 4.0.2 is a *OPEN-SOURCE* software.
+
+ * `VirtaulBox` 4.0.2 can be acquired in "Downloads" section ( *NOT READY YET* ).
+
+ * Visit [http://www.virtualbox.org] for more details about `VirtualBox`.
 
 == Process ==
 
-=== To Be Added... ===
+=== 1. Make Directories ===
+
+...To Be Added...
+
+=== 2. Setup/Unzip Qt 4.6.2 Source ===
+
+...To Be Added...
+
+=== 3. Set Environment Variables ===
+
+...To Be Added...
+
+=== 4. Configure Qt Source For Compilation ===
+
+...To Be Added...
+
+=== 5. Build Qt Binaries Using MSVC2005 ===
+
+...To Be Added...
+
+=== 6. Install Qt Binaries ===
+
+...To Be Added...
+
+=== 7. Extract Necessary SDK Files ===
+
+...To Be Added...
+
+=== 8. Pack & Clean Up ===
+
+...To Be Added...
 
 
