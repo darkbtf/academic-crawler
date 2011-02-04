@@ -33,7 +33,7 @@
 
  * See [http://code.google.com/p/academic-crawler/downloads/list SDK_01-Qt_4.6.2_src] to download.
 
-=== 4. `VirtualBox` 4.0.2 ( *NOT NECESSARY, BUT RECOMMENDED* ) ===
+=== 4. *`VirtualBox` 4.0.2* ( *NOT NECESSARY, BUT RECOMMENDED* ) ===
 
  * *`VirtualBox` 4.0.2* is a virtual machine software.
 
@@ -78,5 +78,3 @@
 === 8. Pack & Clean Up ===
 
 ...To Be Added...
-
-
