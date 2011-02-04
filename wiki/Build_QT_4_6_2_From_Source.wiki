@@ -39,7 +39,7 @@
 
  * The virtual machine may be the best place to build SDKs and test binaries.
 
- * `VirtualBox` 4.0.2 is a *OPEN-SOURCE* software.
+ * `VirtualBox` 4.0.2 is an *OPEN-SOURCE* software.
 
  * `VirtaulBox` 4.0.2 can be acquired in [http://code.google.com/p/academic-crawler/downloads/list TOOL_05-VirtualBox_4_0_2].
 
