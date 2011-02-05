@@ -93,7 +93,7 @@
 
  * After type in configure command, wait several minuntes of configuration.
 
- * Type in "nmake" to compile qt source( *THIS MAY TAKES HOURS, RECOMMAND DISABLE NETWORK, ANTI-SOFTWARE OR BUILD IN VIRTUAL MACHINE ).
+ * Type in "nmake" to compile qt source( *THIS MAY TAKES HOURS, RECOMMAND DISABLING NETWORK AND ANTI-SOFTWARE OR BUILD IN VIRTUAL MACHINE* ).
 
 === 6. Install Qt Binaries ===
 
