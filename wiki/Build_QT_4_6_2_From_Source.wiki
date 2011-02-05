@@ -53,7 +53,7 @@
 
 === 6. Make Sure That You Have Enough Long Time To Go Throug Process Below ===
 
- * Compiling Qt source consumes a lot of time( MAYBE OVER 1 HOUR ), make sure that you are not in hurry.
+ * Compiling Qt source consumes a lot of time( *MAYBE OVER 1 HOUR* ), make sure that you are not in hurry.
 
 == Process ==
 
@@ -117,4 +117,4 @@
 
  * Type in "nmake clean" to clean all temp files generated.
 
-AFTER THE PROCESS ABOVE COMPLETES, YOU WILL HAVE BINARIES OF QT-4.6.2 SDK. REFER TO "(To Be Added)" FOR INSTRUCTIONS ON CONFIGURING Qt DEPENDENCIES IN PROJECTS.
+*AFTER THE PROCESS ABOVE COMPLETES, YOU WILL HAVE BINARIES OF QT-4.6.2 SDK. REFER TO "(To Be Added)" FOR INSTRUCTIONS ON CONFIGURING Qt DEPENDENCIES IN PROJECTS.*
