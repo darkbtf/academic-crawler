@@ -97,7 +97,7 @@
 
 === 6. Install Qt Binaries ===
 
- * If the process of nmake fails, better type in "nmake clean" to clear temp files generated.
+ * *If the process of nmake fails*, better type in "nmake clean" to clear temp files generated.
 
  * After nmake process completes WITHOUT ANY ERRORS, type in "nmake install" to install the binaries into "bin\", "include\", "lib\".
 
