@@ -85,7 +85,7 @@
 
  * Type in command "cd *YOUR QT SOURCE DIR*", make sure that "configure.exe" is in the current path.
 
- * Type in command "*configure -platform win32-msvc2005 -debug-and-release -no-qt3support -no-webkit -no-dsp -vcproj*".
+ * Type in command "*configure -platform win32-msvc2005 -debug-and-release -no-qt3support -no-dsp -vcproj*".
 
  * In the command above, "configure" is the program to be executed, the others are options. To know all the options, type "configure /?" to check out.
 
