@@ -27,9 +27,39 @@
     #define AC_DLL_TEST_EXPORT __declspec(dllimport)
 #endif
 
-// Function to Test Lib Generation
-AC_DLL_TEST_EXPORT bool dllTest( void );
+// Function to Test Dll Generation
+AC_DLL_TEST_EXPORT bool dllTestFunction( void );
 //
+
+// Class to Test Dll Generation
+class AC_DLL_TEST_EXPORT DllTestPoint2D
+{
+
+public:
+
+    DllTestPoint2D( void );
+
+    DllTestPoint2D( const int tx, const int ty );
+
+    DllTestPoint2D( const DllTestPoint2D& tp );
+
+    DllTestPoint2D operator +( const DllTestPoint2D& tp );
+
+    void operator =( const DllTestPoint2D& tp );
+
+    void print( void );
+
+public:
+
+    int x, y;
+
+};
+// ! DllTestPoint2D
+
+// Function to Test Dll Generation
+AC_DLL_TEST_EXPORT bool dllTestClass( void );
+//
+
 
 #endif  // ! AC_DLL_TEST_H_
 

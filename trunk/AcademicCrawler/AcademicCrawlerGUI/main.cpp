@@ -29,7 +29,9 @@ int main( int argc, char* argv[] )
     AC_MainWindow mainWindow; mainWindow.show();
 
 
-    dllTest();			// outside call
+    dllTestFunction();
+
+    dllTestClass();
 
     return app.exec();
 }

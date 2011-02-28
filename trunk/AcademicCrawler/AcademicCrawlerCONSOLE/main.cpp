@@ -19,7 +19,9 @@
 
 int main( int argc, char* argv[] )
 {
-    dllTest();			// outside call
+    dllTestFunction();
+
+    dllTestClass();
 
     system( "pause" );
 
