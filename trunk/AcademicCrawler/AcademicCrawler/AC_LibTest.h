@@ -12,6 +12,12 @@
 //
 //********************************************************************************
 
+#ifndef AC_LIB_TEST_H_
+
+#define AC_LIB_TEST_H_
+
 // Function to Test Lib Generation
 bool libTest( void );
 //
+
+#endif  // ! AC_LIB_TEST_H_

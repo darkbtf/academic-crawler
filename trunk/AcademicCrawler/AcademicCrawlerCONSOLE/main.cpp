@@ -12,14 +12,14 @@
 //
 //********************************************************************************
 
-#include "../AcademicCrawler/AC_LibTest.h"		// outside dependency
+#include "../AcademicCrawlerDLL/AC_DllTest.h"      // dll dependency
 
 #include <iostream>
 
 
 int main( int argc, char* argv[] )
 {
-    libTest();			// outside call
+    dllTest();			// outside call
 
     system( "pause" );
 

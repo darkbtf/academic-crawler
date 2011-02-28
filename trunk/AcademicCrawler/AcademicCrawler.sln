@@ -6,17 +6,34 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AcademicCrawlerGUI", "Acade
 		Integration = True
 	EndGlobalSection
 	ProjectSection(ProjectDependencies) = postProject
-		{C53D527F-0589-481E-8D35-5548C814E10B} = {C53D527F-0589-481E-8D35-5548C814E10B}
+		{BBD406E6-E4E4-467A-82FD-70BA3142301B} = {BBD406E6-E4E4-467A-82FD-70BA3142301B}
 	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AcademicCrawlerCONSOLE", "AcademicCrawlerCONSOLE\AcademicCrawlerCONSOLE.vcproj", "{AE48E3A0-1640-42CA-9685-0B2B31F404D5}"
+	GlobalSection(Qt) = preSolution
+		Integration = True
+	EndGlobalSection
+	ProjectSection(ProjectDependencies) = postProject
+		{BBD406E6-E4E4-467A-82FD-70BA3142301B} = {BBD406E6-E4E4-467A-82FD-70BA3142301B}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AcademicCrawler", "AcademicCrawler\AcademicCrawler.vcproj", "{C53D527F-0589-481E-8D35-5548C814E10B}"
+	GlobalSection(Qt) = preSolution
+		Integration = True
+	EndGlobalSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AcademicCrawlerDLL", "AcademicCrawlerDLL\AcademicCrawlerDLL.vcproj", "{BBD406E6-E4E4-467A-82FD-70BA3142301B}"
+	GlobalSection(Qt) = preSolution
+		Integration = True
+	EndGlobalSection
 	ProjectSection(ProjectDependencies) = postProject
 		{C53D527F-0589-481E-8D35-5548C814E10B} = {C53D527F-0589-481E-8D35-5548C814E10B}
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AcademicCrawler", "AcademicCrawler\AcademicCrawler.vcproj", "{C53D527F-0589-481E-8D35-5548C814E10B}"
-EndProject
 Global
+	GlobalSection(Qt) = preSolution
+		Integration = True
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
 		Release|Win32 = Release|Win32
@@ -34,6 +51,10 @@ Global
 		{C53D527F-0589-481E-8D35-5548C814E10B}.Debug|Win32.Build.0 = Debug|Win32
 		{C53D527F-0589-481E-8D35-5548C814E10B}.Release|Win32.ActiveCfg = Release|Win32
 		{C53D527F-0589-481E-8D35-5548C814E10B}.Release|Win32.Build.0 = Release|Win32
+		{BBD406E6-E4E4-467A-82FD-70BA3142301B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BBD406E6-E4E4-467A-82FD-70BA3142301B}.Debug|Win32.Build.0 = Debug|Win32
+		{BBD406E6-E4E4-467A-82FD-70BA3142301B}.Release|Win32.ActiveCfg = Release|Win32
+		{BBD406E6-E4E4-467A-82FD-70BA3142301B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
