@@ -12,16 +12,18 @@
 //
 //********************************************************************************
 
-#include "../AcademicCrawlerDLL/AC_DllTest.h"      // dll dependency
+#include "../AcademicCrawler/AC_LibTest.h"      // lib dependency
 
 #include <iostream>
 
 
 int main( int argc, char* argv[] )
 {
-    dllTestFunction();
+    libTest();
 
-    dllTestClass();
+    //dllTestFunction();
+
+    //dllTestClass();
 
     system( "pause" );
 

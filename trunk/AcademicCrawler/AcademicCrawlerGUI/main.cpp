@@ -13,7 +13,7 @@
 //********************************************************************************
 
 
-#include "../AcademicCrawlerDLL/AC_DllTest.h"		// outside dependency
+#include "../AcademicCrawler/AC_LibTest.h"		// outside dependency
 
 #include <iostream>
 
@@ -29,9 +29,11 @@ int main( int argc, char* argv[] )
     AC_MainWindow mainWindow; mainWindow.show();
 
 
-    dllTestFunction();
+    libTest();
 
-    dllTestClass();
+    //dllTestFunction();
+
+    //dllTestClass();
 
     return app.exec();
 }

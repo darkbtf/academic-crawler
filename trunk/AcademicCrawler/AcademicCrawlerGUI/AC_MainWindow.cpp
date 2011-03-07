@@ -25,6 +25,7 @@
 
 #include "AC_MainWindow.h"
 
+
 //--------------------------------------------------------------------------------
 AC_MainWindow::AC_MainWindow( QWidget *parent /* = 0 */, Qt::WFlags flags /* = 0 */ )
 : QMainWindow( parent, flags )
