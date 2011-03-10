@@ -20,4 +20,12 @@
 bool libTest( void );
 //
 
+// Function to Test Dll Generation
+bool dllTestClass( void );
+//
+
+// Function to Test Dll Generation
+bool dllTestFunction( void );
+//
+
 #endif  // ! AC_LIB_TEST_H_

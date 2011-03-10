@@ -27,9 +27,6 @@
     #define AC_DLL_TEST_EXPORT __declspec(dllimport)
 #endif
 
-// Function to Test Dll Generation
-AC_DLL_TEST_EXPORT bool dllTestFunction( void );
-//
 
 // Class to Test Dll Generation
 class AC_DLL_TEST_EXPORT DllTestPoint2D
@@ -55,10 +52,6 @@ public:
 
 };
 // ! DllTestPoint2D
-
-// Function to Test Dll Generation
-AC_DLL_TEST_EXPORT bool dllTestClass( void );
-//
 
 
 #endif  // ! AC_DLL_TEST_H_
