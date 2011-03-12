@@ -2,46 +2,29 @@
 
 = Introduction =
 
- * The SDKs & TOOLs listed below are what this project MAY need. They can be acquired by the "Downloads" section of this project: [http://code.google.com/p/academic-crawler/downloads/list].
+ * The SDKs & TOOLs listed below are what this project MAY need.
 
- * *NOTICE 1:* Some of those downloadable items are binaries which can be put into immediate use after installation, while the others are source codes which may need a compilation first, see other documents to find more details on *HOW TO* compile software from source codes.
+ * *NOTICE 1:* Some of those items are binaries which can be put into immediate use after installation, while the others are source codes which may need a compilation first, see other documents to find more details on *HOW TO* compile software from source codes.
 
- * *NOTICE 2:* In the meantime, some downloadable items are opensource projects. Those items can be used freely *UNDER CERTAIN LICENSES*, while the others are commercial products which can only be used *AFTER PURCHASE*.
+ * *NOTICE 2:* In the meantime, some items are opensource projects. Those items can be used freely *UNDER CERTAIN LICENSES*, while the others are commercial products which can only be used *AFTER PURCHASE*.
 
 
 = Details =
 
 == SDKs ==
 
-=== [http://code.google.com/p/academic-crawler/downloads/list 1. SDK_01-Qt_4.6.2_src] ===
+=== 1. SDK_01-Qt_4.6.2 ===
 
  * *Qt 4.6.2*( *OPEN SOURCE EDITION* ) is used in this project to build application GUIs.
-
- * This document is a package with source codes of Qt 4.6.2.
-
- * *BEFORE* using this version of Qt SDK you need to *BUILD BINARIES FROM THE SOURCE CODES*.
 
  * To know *HOW TO* build Qt 4.6.2 binaries from src and configure it for use in *win32 msvc 2005* projects, please check out instructions on project wiki.
 
- * If you are unwilling to build Qt 4.6.2 from src, turn to *"SDK_02-Qt_4.6.2_bin"* - Qt 4.6.2 binaries built for *win32 msvc 2005*.
-
  * Visit [http://qt.nokia.com] for more details about qt.
 
-=== [http://code.google.com/p/academic-crawler/downloads/list 2. SDK_02-Qt_4.6.2_bin] ===
-
- * *Qt 4.6.2*( *OPEN SOURCE EDITION* ) is used in this project to build application GUIs.
-
- * This document is a package with binaries of Qt 4.6.2 for win32 msvc2005.
-
- * To know *HOW TO* configure it for use in *win32 msvc 2005* projects, please check out instructions on project wiki.
-
- * If you want to build Qt 4.6.2 from src, turn to *"SDK_01-Qt_4.6.2_src"* - Qt 4.6.2 source.
-
- * Visit [http://qt.nokia.com] for more details about qt.
 
 == TOOLs: ==
 
-=== [http://code.google.com/p/academic-crawler/downloads/list 1. TOOL_01-Tortoise_SVN_1_6_12_&_SVN_1_6_15] ===
+=== 1. TOOL_01-Tortoise_SVN_1.6.12_&_SVN.1.6.15 ===
 
  * *Svn 1.6.15* is used as source control tool.
 
@@ -55,15 +38,15 @@
 
  * Visit [http://tortoisesvn.net] for more details about Tortoise Svn.
 
-=== [http://code.google.com/p/academic-crawler/downloads/list 2. TOOL_02-Qt_Visual_Studio_Integration_1_4_3] ===
+=== 2. TOOL_02-Qt_Visual_Studio_Integration_1.2.2 ===
 
- * *Qt Visual Studio Integration 1.4.3* is an add-in for Microsoft Visual Studio that helps developing qt applications.
+ * *Qt Visual Studio Integration 1.2.3* is an add-in for Microsoft Visual Studio that helps developing qt applications.
 
- * Qt Visual Studio Integration 1.4.3 is among *COMMERCIAL PRODUCTS* which require purchasing when put into use.
+ * Qt Visual Studio Integration 1.2.3 is among *COMMERCIAL PRODUCTS* which require purchasing when put into use.
 
  * Visit [http://qt.nokia.com] for more details about qt commercial edition.
 
-=== [http://code.google.com/p/academic-crawler/downloads/list 3. TOOL_03-Visual_Assist_X_1_7_1_1] ===
+=== 3. TOOL_03-Visual_Assist_X_1_7_1_1 ===
 
  * *Visual Assist X 1.7.1.1* is an add-in for Microsoft Visual Studio that helps coding.
 
@@ -71,9 +54,7 @@
 
  * Visit [http://www.wholetomato.com] for more details about Visual Assist X.
 
-
-
-=== [http://code.google.com/p/academic-crawler/downloads/list 4. TOOL_04-VirtualBox_4_0_2] ===
+=== 4. TOOL_04-VirtualBox_4_0_2 ===
 
  * *`VirtualBox 4.0.2`* is a virtual machine which is useful for compiling binaries and running tests.
 
