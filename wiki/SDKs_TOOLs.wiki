@@ -38,7 +38,7 @@
 
  * Visit [http://tortoisesvn.net] for more details about Tortoise Svn.
 
-=== 2. TOOL_02-Qt_Visual_Studio_Integration_1.2.2 ===
+=== 2. TOOL_02-Qt_Visual_Studio_Integration`_`1.2.2 ===
 
  * *Qt Visual Studio Integration 1.2.3* is an add-in for Microsoft Visual Studio that helps developing qt applications.
 
