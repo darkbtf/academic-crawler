@@ -33,7 +33,7 @@
 
  * The Qt 4.6.2 source needed for compilation.
 
- * See [http://code.google.com/p/academic-crawler/downloads/list SDK_01-Qt_4.6.2_src] to download.
+ * See [http://qt.nokia.com] to download.
 
 === 4. *`VirtualBox` 4.0.2* ( *NOT NECESSARY, BUT RECOMMENDED* ) ===
 
@@ -42,8 +42,6 @@
  * The virtual machine may be the best place to build SDKs and test binaries.
 
  * `VirtualBox` 4.0.2 is a *OPEN-SOURCE* software.
-
- * `VirtaulBox` 4.0.2 can be acquired in [http://code.google.com/p/academic-crawler/downloads/list TOOL_05-VirtualBox_4_0_2].
 
  * Visit [http://www.virtualbox.org] for more details about `VirtualBox`.
 
