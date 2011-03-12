@@ -71,17 +71,11 @@
 
  * Visit [http://www.wholetomato.com] for more details about Visual Assist X.
 
-=== [http://code.google.com/p/academic-crawler/downloads/list 4. TOOL_04-Dependency_Walker_2_2] ===
 
- * *Dependency Walker 2.2* is used to check certain dependencies of an application.
 
- * Dependency Walker 2.2 is *FREE*.
+=== [http://code.google.com/p/academic-crawler/downloads/list 4. TOOL_04-VirtualBox_4_0_2] ===
 
- * Visit [http://www.dependencywalker.com] for more details about Dependency Walker.
-
-=== [http://code.google.com/p/academic-crawler/downloads/list 5. TOOL_05-VirtualBox_4_0_2] ===
-
- * `*VirtualBox 4.0.2*` is a virtual machine which is useful for compiling binaries and running tests.
+ * *`VirtualBox 4.0.2`* is a virtual machine which is useful for compiling binaries and running tests.
 
  * `VirtualBox` 4.0.2 is *OPEN SOURCE*.
 
